@@ -5,8 +5,8 @@
 #define SERVO_PIN   9
 #define LED_PIN     12
 
-#define SERVO_RAISED_POS  50
-#define SERVO_LOADING_POS 0
+#define SERVO_RAISED_POS  125
+#define SERVO_LOADING_POS 75
 #define SERVO_DELAY       25
 #define HALL_SENSOR_PIN   A0
 #define LOADING_DELAY     2500
